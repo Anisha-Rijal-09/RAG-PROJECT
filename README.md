@@ -215,7 +215,4 @@ Then test the APIs through Swagger:
 http://127.0.0.1:8000/docs
 ```
 
-## Notes
 
-- `.env`, `.venv`, `uploads`, `__pycache__`, and database files are excluded using `.gitignore`.
-- RAG retrieval and generation are implemented explicitly without LangChain chain abstractions.
