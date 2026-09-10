@@ -101,8 +101,9 @@ README.md
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Anisha-Rijal-09/RAG-PROJECT.git
 cd RAG-PROJECT
+
 ```
 
 ### 2. Create virtual environment
